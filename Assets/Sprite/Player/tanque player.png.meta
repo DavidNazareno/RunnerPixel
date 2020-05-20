@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 53972db31fb3d3a46a3c8ccf919cbba1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tanque player_0
+    21300002: tanque player_1
+    21300004: tanque player_2
+    21300006: tanque player_3
+    21300008: tanque player_4
+    21300010: tanque player_5
+    21300012: tanque player_6
+    21300014: tanque player_7
+    21300016: tanque player_8
+    21300018: tanque player_9
+    21300020: tanque player_10
+    21300022: tanque player_11
+    21300024: tanque player_12
+    21300026: tanque player_13
+    21300028: tanque player_14
+    21300030: tanque player_15
+    21300032: tanque player_16
+    21300034: tanque player_17
+    21300036: tanque player_18
+    21300038: tanque player_19
+    21300040: tanque player_20
+    21300042: tanque player_21
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tanque player_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1012
+        width: 176
+        height: 38
+      alignment: 9
+      pivot: {x: 0.78071636, y: 0.45545396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf1f2b7ab9751a419ce14b40335cfa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1010
+        width: 176
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b6bcaffcbe0547b0f669f62a786f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1012
+        width: 176
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d78bee20b7e5945b549bad40da759b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1010
+        width: 176
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd2da29ff1fd064688cb59aa0cde16a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 900
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a24f25bfdd153e42b4e9170203982fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 900
+        width: 216
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c3a6a92ba06364499becd8e2de1abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 900
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e5fe51a6410404fb9a87a48c109f6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 900
+        width: 216
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e98bc54ce2af44aad0574b0bad384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 712
+        width: 176
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3a649f7d7ec3742a3c4680256086a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 710
+        width: 176
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346f7df467376c4c9c53803866333c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 712
+        width: 178
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c02d4f3b7b837549ae4e5cbbf002fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 710
+        width: 248
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e34d728bbc617409087003bd663e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 600
+        width: 216
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417291d42e50d8b40a89be6d63a901c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 600
+        width: 216
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e1f954138be834d98002e866002616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 244
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e845feaae0c6548bfab8d7f2aed6cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 412
+        width: 196
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50b09d9c870dc4b9c361d4841eb4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 412
+        width: 176
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d12248c03df144a177ce6a91fe364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 412
+        width: 176
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979bc2ad39497d4a8531de6bbadc2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 176
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163f6c530831be43864bf3d24ccb48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 176
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2174cc87877db6428488cc077e42dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 112
+        width: 176
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8bfe5deebcd9244b292879f3b37d69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanque player_21
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 112
+        width: 176
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7807164, y: 0.455454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372f0357ce67dc64fa849d9d34c109af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
